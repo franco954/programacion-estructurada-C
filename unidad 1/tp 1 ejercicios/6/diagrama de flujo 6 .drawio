@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2023-04-08T17:01:51.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QXROFDP4ChUv3h5Hi_6R" version="21.1.5" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7AOEi-mb4LlSiQp3u_E-0" target="C7AOEi-mb4LlSiQp3u_E-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-0" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="10" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7AOEi-mb4LlSiQp3u_E-3" target="C7AOEi-mb4LlSiQp3u_E-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-3" value="&quot;Ingresa el valor del primer lado: &quot; . lado1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="110" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7AOEi-mb4LlSiQp3u_E-4" target="C7AOEi-mb4LlSiQp3u_E-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-4" value="&quot;Ingresa el valor del segundo lado: &quot; . lado2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="200" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7AOEi-mb4LlSiQp3u_E-5" target="C7AOEi-mb4LlSiQp3u_E-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-5" value="&quot;Ingresa el valor del tercer lado: &quot; . lado3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="290" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7AOEi-mb4LlSiQp3u_E-6" target="C7AOEi-mb4LlSiQp3u_E-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-6" value="diagonal =&amp;nbsp;&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;mwe-math-element&quot;&gt;&lt;img style=&quot;border: 0px; vertical-align: -1.505ex; margin: 0px; display: inline-block; width: 2.581ex; height: 3.009ex;&quot; alt=&quot;{\displaystyle {\sqrt {\;}}}&quot; aria-hidden=&quot;true&quot; class=&quot;mwe-math-fallback-image-inline&quot; src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/8ffd20af41fea39bf4979bf884c7fc7533a06ae6&quot;&gt;&amp;nbsp; pow(lado1,2)+pow(lado2,2)+pow(lado3,2)&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270.5" y="380" width="399.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=-0.071;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7AOEi-mb4LlSiQp3u_E-7" target="C7AOEi-mb4LlSiQp3u_E-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-7" value="perimetro =&amp;nbsp; lado1 + lado2 + lado3" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="272.5" y="480" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7AOEi-mb4LlSiQp3u_E-8" target="C7AOEi-mb4LlSiQp3u_E-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-8" value="semiperimetros = perimetro / 2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="585" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7AOEi-mb4LlSiQp3u_E-9" target="C7AOEi-mb4LlSiQp3u_E-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-9" value="area =&amp;nbsp;&lt;img style=&quot;border: 0px; color: rgb(32, 33, 34); font-family: sans-serif; font-size: 14px; text-align: start; vertical-align: -1.505ex; margin: 0px; display: inline-block; width: 2.581ex; height: 3.009ex;&quot; alt=&quot;{\displaystyle {\sqrt {\;}}}&quot; aria-hidden=&quot;true&quot; class=&quot;mwe-math-fallback-image-inline&quot; src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/8ffd20af41fea39bf4979bf884c7fc7533a06ae6&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;(semiperimetro * (semiperimetro - lado1) * (semiperimetro - lado2) * (semiperimetro - lado3)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="202.5" y="690" width="395" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7AOEi-mb4LlSiQp3u_E-11" target="C7AOEi-mb4LlSiQp3u_E-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-11" value="&quot;La diagonal principal del triangulo es: &quot; .diagonal" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="257.5" y="800" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-12" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="376.25" y="1230" width="67.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7AOEi-mb4LlSiQp3u_E-24" target="C7AOEi-mb4LlSiQp3u_E-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-24" value="&quot;El perimetro del triangulo es: &quot; .perimetro" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="255" y="940" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C7AOEi-mb4LlSiQp3u_E-25" target="C7AOEi-mb4LlSiQp3u_E-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7AOEi-mb4LlSiQp3u_E-25" value="&quot;El area del triangulo es: &quot; . area" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="1080" width="290" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

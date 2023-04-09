@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2023-04-08T16:35:04.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ykSFmUjwSIqdlmONbSZS" version="21.1.5" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1050" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WfZmLnitZ9mC4udaHRbN-0" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WfZmLnitZ9mC4udaHRbN-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="381" y="540" width="66" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WfZmLnitZ9mC4udaHRbN-2" value="&quot;Ingrese el valor del primer cateto:&quot; . cateto1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="120" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WfZmLnitZ9mC4udaHRbN-3" value="&quot;Ingrese el valor del segundo cateto:&quot; . cateto2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="210" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WfZmLnitZ9mC4udaHRbN-4" value="hipotenusa =&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;color: rgb(32, 33, 34); font-family: sans-serif; font-size: 14px; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;mwe-math-element&quot;&gt;&lt;span style=&quot;display: none; clip: rect(1px, 1px, 1px, 1px); overflow: hidden; position: absolute; width: 1px; height: 1px; opacity: 0;&quot; class=&quot;mwe-math-mathml-inline mwe-math-mathml-a11y&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mstyle scriptlevel=&quot;0&quot; displaystyle=&quot;true&quot;&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;msqrt&gt;&lt;mspace width=&quot;thickmathspace&quot;&gt;&lt;/mspace&gt;&lt;/msqrt&gt;&lt;/mrow&gt;&lt;/mstyle&gt;&lt;/mrow&gt;&lt;/math&gt;&lt;/span&gt;&lt;img style=&quot;border: 0px; vertical-align: -1.505ex; margin: 0px; display: inline-block; width: 2.581ex; height: 3.009ex;&quot; alt=&quot;{\displaystyle {\sqrt {\;}}}&quot; aria-hidden=&quot;true&quot; class=&quot;mwe-math-fallback-image-inline&quot; src=&quot;https://wikimedia.org/api/rest_v1/media/math/render/svg/8ffd20af41fea39bf4979bf884c7fc7533a06ae6&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(cateto1 * cateto1 + cateto2 * cateto2)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="300" width="390" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
